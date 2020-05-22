@@ -69,5 +69,18 @@ body {
     font-size: 11px;
     margin-bottom: 5px;
 }
+#avengers {
+    display: none;
+}
 
-
+#avengers-image img {
+    width:300px;
+    height: auto;
+    border-radius:15px;
+}
+p.bold {
+    font-weight: bolder;
+    padding-top: 1.5em;
+    margin-left: 15%;
+ 
+}

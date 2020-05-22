@@ -1,0 +1,10 @@
+$(function(){
+    $("#avengers-image").click(function(){
+        $("#avengers-image").hide();
+        $("#avengers").show();
+      });
+      $("#avengers").click(function(){
+        $("#avengers").hide();
+        $("#avengers-image").show();
+      });
+});
